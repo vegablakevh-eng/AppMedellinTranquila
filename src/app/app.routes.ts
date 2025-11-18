@@ -54,4 +54,5 @@ export const routes: Routes = [
   { path: 'contacto', component: ContactoPage },
   { path: 'privacidad', component: PrivacidadPage },
   { path: 'notificaciones', component: NotificacionesPage },
+  
 ];
