@@ -31,6 +31,7 @@ export const routes: Routes = [
   { path: 'register', component: RegisterPage },
    { path: 'registro-emocional', component: RegistroEmocionalPage },
     { path: 'formulario-emocionales', component: FormularioEmocionalPage },
+    
 
   // ⭐ TABS (5 pestañas principales)
   {
